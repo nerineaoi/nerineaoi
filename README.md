@@ -9,21 +9,21 @@ I'm a full-stack student, artist and indie developer with a passion for building
 ## 🔧 Featured Projects
 
 ### 🧠 **QuestDHD**  
-*TDAH / productividad gamificada*  
+*ADHD / Gamified productivity*   
 `adhd | gamification | productivity | react | nodejs | fullstack | tfg | portfolio`  
 Gamified productivity app designed to help users with ADHD stay focused and motivated.
 
 ---
 
 ### 🧰 **BenriServ**  
-*Mantenimiento / gestión técnica*  
+*Maintenance / Technical management* 
 `maintenance | management | nodejs | react | fullstack | tfg | portfolio | webapp`  
 A unified web app for incident reporting, technician assignment, and maintenance tracking.
 
 ---
 
 ### 💘 **Once Upon a Tale**  
-*Visual novel / otome original*  
+*Visual novel / Original otome project*  
 `otome | visual-novel | renpy | narrative | game-dev | portfolio`  
 Original fantasy visual novel project exploring choice, emotion, and world-building.
 
