@@ -1,25 +1,35 @@
 # 🌸 Hi, I'm Nerine Aoi!
 
-💻 Developer • 🎨 Designer • 🧠 Curious learner
+💻 **Developer** • 🎨 **Designer** • 🧠 **Curious learner**
 
-I'm a full-stack student and indie developer with a passion for building interactive, meaningful projects — from gamified productivity tools to narrative visual novels.
+I'm a full-stack student, artist and indie developer with a passion for building interactive, meaningful projects — from gamified productivity tools to narrative visual novels.
 
 ---
 
-🔧 Featured Projects
+## 🔧 Featured Projects
 
-🧠 **QuestDHD** (TDAH / productividad gamificada)
-
-adhd | gamification | productivity | react | nodejs | fullstack | tfg | portfolio
+### 🧠 **QuestDHD**  
+*TDAH / productividad gamificada*  
+`adhd | gamification | productivity | react | nodejs | fullstack | tfg | portfolio`  
 Gamified productivity app designed to help users with ADHD stay focused and motivated.
 
-🧰 **BenriServ** (mantenimiento / gestión técnica)
-maintenance | management | nodejs | react | fullstack | tfg | portfolio | webapp
+---
 
-💘 **Once Upon a Tale** (visual novel / otome original)
+### 🧰 **BenriServ**  
+*Mantenimiento / gestión técnica*  
+`maintenance | management | nodejs | react | fullstack | tfg | portfolio | webapp`  
+A unified web app for incident reporting, technician assignment, and maintenance tracking.
+
+---
+
+### 💘 **Once Upon a Tale**  
+*Visual novel / otome original*  
+`otome | visual-novel | renpy | narrative | game-dev | portfolio`  
 Original fantasy visual novel project exploring choice, emotion, and world-building.
 
-🌐 Find me around the web
+---
+
+## 🌐 Find me around the web
 
 - 📸 [Instagram](https://instagram.com/byneriai)
 - 🎮 [Itch.io](https://nerineaoi.itch.io)
