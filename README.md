@@ -1,16 +1,27 @@
-## Hi there 👋
+# 🌸 Hi, I'm Nerine Aoi!
 
-<!--
-**nerineaoi/nerineaoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Developer • 🎨 Designer • 🧠 Curious learner
 
-Here are some ideas to get you started:
+I'm a full-stack student and indie developer with a passion for building interactive, meaningful projects — from gamified productivity tools to narrative visual novels.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🔧 Featured Projects
+
+🧠 **QuestDHD** (TDAH / productividad gamificada)
+
+adhd | gamification | productivity | react | nodejs | fullstack | tfg | portfolio
+Gamified productivity app designed to help users with ADHD stay focused and motivated.
+
+🧰 **BenriServ** (mantenimiento / gestión técnica)
+maintenance | management | nodejs | react | fullstack | tfg | portfolio | webapp
+
+💘 **Once Upon a Tale** (visual novel / otome original)
+Original fantasy visual novel project exploring choice, emotion, and world-building.
+
+🌐 Find me around the web
+
+- 📸 [Instagram](https://instagram.com/byneriai)
+- 🎮 [Itch.io](https://nerineaoi.itch.io)
+- 💬 [X / Twitter](https://x.com/byneriaoi)
+- 🐙 [GitHub](https://github.com/nerineaoi)
